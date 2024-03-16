@@ -3,7 +3,7 @@ import Title from "@/components/ui/Title";
 import React from "react";
 
 const getData = async () => {
-  const res = await fetch("https://jsonplaceholder.typicode.com/posts");
+  const res = await fetch("https://json-placeholder-six.vercel.app/api/posts");
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
 
