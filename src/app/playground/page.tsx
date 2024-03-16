@@ -3,7 +3,7 @@ import Title from "@/components/ui/Title";
 import React from "react";
 
 const getData = async () => {
-  const res = await fetch("http://localhost:3000/api/posts");
+  const res = await fetch("https://jsonplaceholder.typicode.com/posts");
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
 
