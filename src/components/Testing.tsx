@@ -15,22 +15,24 @@ const Testing = () => {
         Run this code here, in a console or from any site:
       </p>
       <div className=" bg-[#263E52] p-10 rounded-md w-full">
-        <p className=" text-yellow-100 tracking-wider mb-0.5">
-          <span className=" text-sky-400 ">fetch</span>
-          &#x27;{`(https://jsonplaceholder.typicode.com/todos/1)`}&#x27;
-        </p>
-        <p className="text-gray-100 tracking-wider ml-10 mb-0.5">
-          <span className=" text-sky-400">.then</span>
-          {`(response => response.`}
-          <span className="text-sky-400">json</span>
-          {`())`}
-        </p>
-        <p className="text-gray-100 tracking-wider ml-10 mb-0.5">
-          <span className=" text-sky-400">.then</span>
-          {`(json => console.`}
-          <span className="text-sky-400">log</span>
-          {`(json))`}
-        </p>
+        <div className=" overflow-hidden w-full">
+          <p className=" text-yellow-100 tracking-wider mb-0.5">
+            <span className=" text-sky-400 ">fetch</span>
+            &#x27;{`(https://jsonplaceholder.typicode.com/todos/1)`}&#x27;
+          </p>
+          <p className="text-gray-100 tracking-wider ml-10 mb-0.5">
+            <span className=" text-sky-400">.then</span>
+            {`(response => response.`}
+            <span className="text-sky-400">json</span>
+            {`())`}
+          </p>
+          <p className="text-gray-100 tracking-wider ml-10 mb-0.5">
+            <span className=" text-sky-400">.then</span>
+            {`(json => console.`}
+            <span className="text-sky-400">log</span>
+            {`(json))`}
+          </p>
+        </div>
       </div>
       <button
         onClick={() => setTest(true)}
