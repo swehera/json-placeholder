@@ -1,5 +1,7 @@
+import Posts from "@/components/Posts";
 import Container from "@/components/ui/Container";
 import Title from "@/components/ui/Title";
+
 import React from "react";
 
 const getData = async () => {
@@ -15,14 +17,24 @@ const getData = async () => {
   return res.json();
 };
 
-const PlayGround = async () => {
+const Playground = async () => {
   const PostData = await getData();
   console.log(PostData);
 
-  return;
-  <Container>
-    <Title title="Play Ground" />
-  </Container>;
+  return (
+    <Container>
+      <Title title="This is Playground" />
+      <div className=" my-5 flex items-center gap-5">
+        <button className=" bg-black text-gray-200 text-sm font-semibold py-2 px-4 rounded-md hover:bg-black/80 hover:text-white duration-200">
+          Posts
+        </button>
+        <button className=" bg-black text-gray-200 text-sm font-semibold py-2 px-4 rounded-md hover:bg-black/80 hover:text-white duration-200">
+          Comments
+        </button>
+      </div>
+      <Posts PostData={PostData} />
+    </Container>
+  );
 };
 
-export default PlayGround;
+export default Playground;
