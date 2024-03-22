@@ -1311,3 +1311,506 @@ export const commentData = [
     body: "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
   },
 ];
+
+export const albumsData = [
+  {
+    userId: 1,
+    id: 1,
+    title: "Honorable",
+  },
+  {
+    userId: 2,
+    id: 2,
+    title: "Honorable",
+  },
+  {
+    userId: 3,
+    id: 3,
+    title: "Mr",
+  },
+  {
+    userId: 4,
+    id: 4,
+    title: "Honorable",
+  },
+  {
+    userId: 5,
+    id: 5,
+    title: "Mr",
+  },
+  {
+    userId: 6,
+    id: 6,
+    title: "Ms",
+  },
+  {
+    userId: 7,
+    id: 7,
+    title: "Mrs",
+  },
+  {
+    userId: 8,
+    id: 8,
+    title: "Mr",
+  },
+  {
+    userId: 9,
+    id: 9,
+    title: "Ms",
+  },
+  {
+    userId: 10,
+    id: 10,
+    title: "Mr",
+  },
+  {
+    userId: 11,
+    id: 11,
+    title: "Mr",
+  },
+  {
+    userId: 12,
+    id: 12,
+    title: "Rev",
+  },
+  {
+    userId: 13,
+    id: 13,
+    title: "Ms",
+  },
+  {
+    userId: 14,
+    id: 14,
+    title: "Mrs",
+  },
+  {
+    userId: 15,
+    id: 15,
+    title: "Mrs",
+  },
+  {
+    userId: 16,
+    id: 16,
+    title: "Rev",
+  },
+  {
+    userId: 17,
+    id: 17,
+    title: "Mrs",
+  },
+  {
+    userId: 18,
+    id: 18,
+    title: "Mrs",
+  },
+  {
+    userId: 19,
+    id: 19,
+    title: "Mrs",
+  },
+  {
+    userId: 20,
+    id: 20,
+    title: "Dr",
+  },
+  {
+    userId: 21,
+    id: 21,
+    title: "Mrs",
+  },
+  {
+    userId: 22,
+    id: 22,
+    title: "Mrs",
+  },
+  {
+    userId: 23,
+    id: 23,
+    title: "Dr",
+  },
+  {
+    userId: 24,
+    id: 24,
+    title: "Rev",
+  },
+  {
+    userId: 25,
+    id: 25,
+    title: "Mrs",
+  },
+  {
+    userId: 26,
+    id: 26,
+    title: "Dr",
+  },
+  {
+    userId: 27,
+    id: 27,
+    title: "Mrs",
+  },
+  {
+    userId: 28,
+    id: 28,
+    title: "Rev",
+  },
+  {
+    userId: 29,
+    id: 29,
+    title: "Mr",
+  },
+  {
+    userId: 30,
+    id: 30,
+    title: "Honorable",
+  },
+  {
+    userId: 31,
+    id: 31,
+    title: "Rev",
+  },
+  {
+    userId: 32,
+    id: 32,
+    title: "Honorable",
+  },
+  {
+    userId: 33,
+    id: 33,
+    title: "Dr",
+  },
+  {
+    userId: 34,
+    id: 34,
+    title: "Dr",
+  },
+  {
+    userId: 35,
+    id: 35,
+    title: "Rev",
+  },
+  {
+    userId: 36,
+    id: 36,
+    title: "Ms",
+  },
+  {
+    userId: 37,
+    id: 37,
+    title: "Mrs",
+  },
+  {
+    userId: 38,
+    id: 38,
+    title: "Honorable",
+  },
+  {
+    userId: 39,
+    id: 39,
+    title: "Mr",
+  },
+  {
+    userId: 40,
+    id: 40,
+    title: "Ms",
+  },
+  {
+    userId: 41,
+    id: 41,
+    title: "Mr",
+  },
+  {
+    userId: 42,
+    id: 42,
+    title: "Honorable",
+  },
+  {
+    userId: 43,
+    id: 43,
+    title: "Rev",
+  },
+  {
+    userId: 44,
+    id: 44,
+    title: "Mrs",
+  },
+  {
+    userId: 45,
+    id: 45,
+    title: "Mr",
+  },
+  {
+    userId: 46,
+    id: 46,
+    title: "Honorable",
+  },
+  {
+    userId: 47,
+    id: 47,
+    title: "Mrs",
+  },
+  {
+    userId: 48,
+    id: 48,
+    title: "Rev",
+  },
+  {
+    userId: 49,
+    id: 49,
+    title: "Dr",
+  },
+  {
+    userId: 50,
+    id: 50,
+    title: "Dr",
+  },
+  {
+    userId: 51,
+    id: 51,
+    title: "Rev",
+  },
+  {
+    userId: 52,
+    id: 52,
+    title: "Honorable",
+  },
+  {
+    userId: 53,
+    id: 53,
+    title: "Mrs",
+  },
+  {
+    userId: 54,
+    id: 54,
+    title: "Dr",
+  },
+  {
+    userId: 55,
+    id: 55,
+    title: "Rev",
+  },
+  {
+    userId: 56,
+    id: 56,
+    title: "Dr",
+  },
+  {
+    userId: 57,
+    id: 57,
+    title: "Ms",
+  },
+  {
+    userId: 58,
+    id: 58,
+    title: "Dr",
+  },
+  {
+    userId: 59,
+    id: 59,
+    title: "Dr",
+  },
+  {
+    userId: 60,
+    id: 60,
+    title: "Rev",
+  },
+  {
+    userId: 61,
+    id: 61,
+    title: "Honorable",
+  },
+  {
+    userId: 62,
+    id: 62,
+    title: "Honorable",
+  },
+  {
+    userId: 63,
+    id: 63,
+    title: "Rev",
+  },
+  {
+    userId: 64,
+    id: 64,
+    title: "Mrs",
+  },
+  {
+    userId: 65,
+    id: 65,
+    title: "Dr",
+  },
+  {
+    userId: 66,
+    id: 66,
+    title: "Ms",
+  },
+  {
+    userId: 67,
+    id: 67,
+    title: "Mr",
+  },
+  {
+    userId: 68,
+    id: 68,
+    title: "Dr",
+  },
+  {
+    userId: 69,
+    id: 69,
+    title: "Ms",
+  },
+  {
+    userId: 70,
+    id: 70,
+    title: "Ms",
+  },
+  {
+    userId: 71,
+    id: 71,
+    title: "Honorable",
+  },
+  {
+    userId: 72,
+    id: 72,
+    title: "Rev",
+  },
+  {
+    userId: 73,
+    id: 73,
+    title: "Mr",
+  },
+  {
+    userId: 74,
+    id: 74,
+    title: "Mrs",
+  },
+  {
+    userId: 75,
+    id: 75,
+    title: "Dr",
+  },
+  {
+    userId: 76,
+    id: 76,
+    title: "Ms",
+  },
+  {
+    userId: 77,
+    id: 77,
+    title: "Mrs",
+  },
+  {
+    userId: 78,
+    id: 78,
+    title: "Ms",
+  },
+  {
+    userId: 79,
+    id: 79,
+    title: "Rev",
+  },
+  {
+    userId: 80,
+    id: 80,
+    title: "Mr",
+  },
+  {
+    userId: 81,
+    id: 81,
+    title: "Rev",
+  },
+  {
+    userId: 82,
+    id: 82,
+    title: "Mrs",
+  },
+  {
+    userId: 83,
+    id: 83,
+    title: "Rev",
+  },
+  {
+    userId: 84,
+    id: 84,
+    title: "Dr",
+  },
+  {
+    userId: 85,
+    id: 85,
+    title: "Honorable",
+  },
+  {
+    userId: 86,
+    id: 86,
+    title: "Rev",
+  },
+  {
+    userId: 87,
+    id: 87,
+    title: "Ms",
+  },
+  {
+    userId: 88,
+    id: 88,
+    title: "Mr",
+  },
+  {
+    userId: 89,
+    id: 89,
+    title: "Dr",
+  },
+  {
+    userId: 90,
+    id: 90,
+    title: "Mrs",
+  },
+  {
+    userId: 91,
+    id: 91,
+    title: "Ms",
+  },
+  {
+    userId: 92,
+    id: 92,
+    title: "Mrs",
+  },
+  {
+    userId: 93,
+    id: 93,
+    title: "Dr",
+  },
+  {
+    userId: 94,
+    id: 94,
+    title: "Ms",
+  },
+  {
+    userId: 95,
+    id: 95,
+    title: "Rev",
+  },
+  {
+    userId: 96,
+    id: 96,
+    title: "Mr",
+  },
+  {
+    userId: 97,
+    id: 97,
+    title: "Dr",
+  },
+  {
+    userId: 98,
+    id: 98,
+    title: "Honorable",
+  },
+  {
+    userId: 99,
+    id: 99,
+    title: "Dr",
+  },
+  {
+    userId: 100,
+    id: 100,
+    title: "Ms",
+  },
+];
